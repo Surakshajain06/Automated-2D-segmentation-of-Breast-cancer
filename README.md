@@ -20,6 +20,9 @@
 
 ![Final Results](DOCUMENTATION/images/final%20results.png)
 
+## Dissertation
+
+📄 [Read Full Dissertation](DOCUMENTATION/Automated_2D_segmentation_of_Breast_cancer.pdf)
 
 ## Overview
 
