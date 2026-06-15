@@ -1,4 +1,25 @@
+<div align="center">
+
 # Breast Tumor Segmentation Using 2D U-Net and MONAI
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.2-red)
+![MONAI](https://img.shields.io/badge/MONAI-1.5-green)
+![MRI](https://img.shields.io/badge/Medical%20Imaging-Breast%20MRI-purple)
+![Task](https://img.shields.io/badge/Task-Multi--Class%20Segmentation-blueviolet)
+
+</div>
+
+## Introduction
+![Introduction](DOCUMENTATION/images/intro.png)
+
+## Workflow
+![Workflow](DOCUMENTATION/images/workflow.png)
+
+## Final Results
+
+![Final Results](DOCUMENTATION/images/final%20results.png)
+
 
 ## Overview
 
