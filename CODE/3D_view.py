@@ -7,6 +7,7 @@ from scipy.ndimage import binary_fill_holes, gaussian_filter
 import plotly.graph_objects as go
 import plotly.io as pio
 
+
 # =========================
 # 🔥 FORCE BROWSER POPUP
 # =========================
